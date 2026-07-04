@@ -76,7 +76,7 @@ The API response may be delayed due to complex database queries, high server loa
 
 - Monitor the API response time.
 - Check server logs for slow requests or errors.
-- If I have access to the backend, monitor CPU and resource usage.
+- Monitor CPU and resource usage.
 
 #### 2. Network Latency
 
